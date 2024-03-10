@@ -939,6 +939,10 @@ video {
     gap: 2.5rem;
   }
 
+  .sm\:overflow-x-hidden {
+    overflow-x: hidden;
+  }
+
   .sm\:rounded-2xl {
     border-radius: 1rem;
   }
@@ -1057,6 +1061,10 @@ video {
   .md\:gap-x-96 {
     -moz-column-gap: 24rem;
          column-gap: 24rem;
+  }
+
+  .md\:overflow-x-hidden {
+    overflow-x: hidden;
   }
 
   .md\:bg-white {
