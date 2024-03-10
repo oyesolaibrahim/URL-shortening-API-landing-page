@@ -821,6 +821,11 @@ video {
     margin-right: auto;
   }
 
+  .sm\:mx-20 {
+    margin-left: 5rem;
+    margin-right: 5rem;
+  }
+
   .sm\:mb-10 {
     margin-bottom: 2.5rem;
   }
@@ -871,6 +876,10 @@ video {
 
   .sm\:mr-24 {
     margin-right: 6rem;
+  }
+
+  .sm\:ml-24 {
+    margin-left: 6rem;
   }
 
   .sm\:hidden {
